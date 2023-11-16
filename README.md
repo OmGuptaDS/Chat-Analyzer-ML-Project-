@@ -1,4 +1,4 @@
-"# Chat-Analyzer-ML-Project-" 
+# Chat-Analyzer-ML-Project-
 
 
 •	The WhatsApp Chats Analyzer is a python-based project that allows users to upload WhatsApp chat data and visualize conversations. 
